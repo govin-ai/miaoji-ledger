@@ -1,8 +1,14 @@
-**wx：goan888888**
+<div align="center">
 
-扫码添加微信：
+### 微信联系
 
-<img src="assets/wechat.jpg" alt="微信二维码：goan888888" width="260" />
+**微信：`goan888888`**
+
+扫码添加微信，交流使用体验与建议。
+
+<img src="assets/wechat.jpg" alt="微信二维码：goan888888" width="240" />
+
+</div>
 
 ---
 
